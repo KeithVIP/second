@@ -12,10 +12,10 @@ body {
 
 /* apply styles to <header> */
 header {
-    justify-content: space-between;
     padding: 20px 35px;
     background-color: #39a6b2;
     display: flex;
+    justify-content: space-between;
     flex-wrap: wrap;
   }
 
