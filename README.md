@@ -13,5 +13,4 @@ https://lernantino.github.io/run-buddy/
 Made with ❤️ by Keith Yanosy
 
 ### ©️2019 Run Buddy, Inc 
-# module-2
-# second
+
